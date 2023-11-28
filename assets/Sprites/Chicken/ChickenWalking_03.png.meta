@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "6e740c86-9992-4ae2-b34d-ee341da0f56a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "ChickenWalking_03": {
+      "ver": "1.0.4",
+      "uuid": "50ff48a6-c04d-4d77-8574-0a9a2f4410ea",
+      "rawTextureUuid": "6e740c86-9992-4ae2-b34d-ee341da0f56a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 18,
+      "height": 19,
+      "rawWidth": 18,
+      "rawHeight": 19,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
